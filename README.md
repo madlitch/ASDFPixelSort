@@ -12,9 +12,9 @@ Change values to 'true' or 'false' to change what images the script creates.
 Create and set both a source directory and an output directory under inputFilePath and outputFilePath respectively. Make sure to include the last slash in the path string.
 
 ## License 
-[MIT] License
+MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) 2020 Massimo Albanese
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
