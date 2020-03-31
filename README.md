@@ -11,6 +11,8 @@ Download file, make sure it is still within the parent folder, and run with Proc
 Change values to 'true' or 'false' to change what images the script creates. 
 Create and set both a source directory and an output directory under inputFilePath and outputFilePath respectively. Make sure to include the last slash in the path string.
 
+Files will output in the output directory in a folder as the same name as the input file.
+
 ## License 
 MIT License
 
