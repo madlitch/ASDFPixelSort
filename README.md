@@ -5,7 +5,7 @@ Modified from Kim Asendorf's original program: https://github.com/kimasendorf/AS
 
 ## Installation 
 Download Processing: https://processing.org/download/
-Download file, make sure it is still within the parent folder, and run with processing. 
+Download file, make sure it is still within the parent folder, and run with Processing. 
 
 ## Usage 
 Change values to 'true' or 'false' to change what images the script creates. 
